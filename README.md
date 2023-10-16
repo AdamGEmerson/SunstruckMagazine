@@ -1,5 +1,7 @@
 # SunStruck Magazine
-An archive of Sunstruck Magazine, which ran from October 2015 to May 2016, featuring non-fiction, fiction, poetry, and art from 70 authors and artists around the world.
+An archive of Sunstruck Magazine, which ran from October 2015 to May 2016, featuring non-fiction, fiction, poetry, and art from 70 authors and artists around the world.  
+
+The original site can be seen (minus images) with the [Wayback Machine](https://web.archive.org/web/20160930114625/http://sunstruckmag.com/)
 
 ## Issues
 [October 2015 - Vol. 1, No. 1](/Issues/01_SunStruck_Oct2015.pdf)
